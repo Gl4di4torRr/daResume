@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Shah Zain Zafrani",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "shahzafrani@gmail.com",
+    "phone": "4045121098",
+    "website": "http://shahzain.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Atlanta,",
+      "countryCode": "",
+      "region": "Georgia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "shahzafrani",
+        "url": "github.com/shahzafrani"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "The Home Depot",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "Feb. 2016",
+      "endDate": "Feb. 2017",
+      "summary": "Full-stack developer working on a variety of projects",
+      "highlights": [
+        "Created and maintained continuous integration pipelines ",
+        "Wrote enterprise ready microservices able to support hundreds of millions of hits per week",
+        "Migrated on-prem merchandise data into sustainable cloud-native infrastructure",
+        "Used Test Driven Development to ensure code quality"
+      ]
+    },
+    {
+      "company": "The Home Depot",
+      "position": "Software Engineering Apprentice",
+      "website": "",
+      "startDate": "Aug. 2015",
+      "endDate": "Feb 2016",
+      "summary": "Part-time developer while finishing school",
+      "highlights": [
+        "Developed Online Collaborative Contract Web App",
+        "Implemented unit test and end-to-end tests in javascript"
+      ]
+    },
+    {
+      "company": "The Home Depot",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "May 2015",
+      "endDate": "Aug. 2015",
+      "summary": "Summer Intern with big ideas and big dreams",
+      "highlights": [
+        "Converted legacy Adobe Flex apps to HTML5 with AngularJS",
+        "Delivered project ahead of timeline and deployed it to production "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kennesaw State University",
+      "area": "Computer Game Design and Development",
+      "studyType": "Bachelor of Science",
+      "startDate": "May 2011",
+      "endDate": "Aug. 2016",
+      "gpa": "",
+      "courses": [
+        "Data Structures",
+        "Algorithm Analysis",
+        "Artificial Intelligence",
+        "Computer Graphics"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Coding Proficiencies",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "Javascript",
+        "AngularJS",
+        "PixiJS",
+        "MithrilJS",
+        "C++ (Rudimentary)",
+        "Bash",
+        "SQL",
+        "NoSql"
+      ]
+    },
+    {
+      "name": "Recognition",
+      "level": "America's Greatest Makers",
+      "keywords": [
+        "Contestant on Intel's Competition/Reality Show"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English ",
+      "fluency": "Native"
+    },
+    {
+      "language": "Urdu/Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}
