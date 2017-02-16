@@ -1,15 +1,14 @@
 {
   "basics": {
-    "name": "Shah Zain Zafrani",
-    "label": "Software Engineer",
+    "name": "Christopher David Bolton",
+    "label": "Senior Software Engineer",
     "picture": "",
-    "email": "shahzafrani@gmail.com",
-    "phone": "4045121098",
-    "website": "http://shahzain.io",
+    "email": "christopherdbolton@gmail.com",
+    "phone": "6783656323",
     "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "3665 Shadow Lane Northest",
+      "postalCode": "30319",
       "city": "Atlanta,",
       "countryCode": "",
       "region": "Georgia"
@@ -17,69 +16,85 @@
     "profiles": [
       {
         "network": "Github",
-        "username": "shahzafrani",
-        "url": "github.com/shahzafrani"
+        "username": "Gl4di4torRr",
+        "url": "github.com/gl4di4torrr"
       }
     ]
   },
   "work": [
     {
       "company": "The Home Depot",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "website": "",
-      "startDate": "Feb. 2016",
-      "endDate": "Feb. 2017",
-      "summary": "Full-stack developer working on a variety of projects",
+      "startDate": "June 2015",
+      "endDate": "",
+      "summary": "Merchandising IT - Full Stack Developer",
       "highlights": [
-        "Created and maintained continuous integration pipelines ",
-        "Wrote enterprise ready microservices able to support hundreds of millions of hits per week",
-        "Migrated on-prem merchandise data into sustainable cloud-native infrastructure",
-        "Used Test Driven Development to ensure code quality"
+        "Supplier On-boarding Application: allows merchants to create contracts with vendors"
       ]
     },
     {
       "company": "The Home Depot",
-      "position": "Software Engineering Apprentice",
+      "position": "Software Engineer",
       "website": "",
-      "startDate": "Aug. 2015",
-      "endDate": "Feb 2016",
-      "summary": "Part-time developer while finishing school",
+      "startDate": "June 2014",
+      "endDate": "June 2015",
+      "summary": "Application Platforms and Development Tools Engineer",
       "highlights": [
-        "Developed Online Collaborative Contract Web App",
-        "Implemented unit test and end-to-end tests in javascript"
+        "Created Eclipse plug-ins for Home Depots internal Eclipse",
+        "Helped on-board GitHub Enterprise and Artifactory Pro",
+        "Helped maintain Enterprise systems such as Jenkins, Artifactory, Pivotal Tracker, Subversion and more."
       ]
     },
     {
       "company": "The Home Depot",
       "position": "Software Engineering Intern",
       "website": "",
-      "startDate": "May 2015",
-      "endDate": "Aug. 2015",
-      "summary": "Summer Intern with big ideas and big dreams",
+      "startDate": "May 2013",
+      "endDate": "August 2013",
+      "summary": "Summer Internship on the Application Platforms team",
       "highlights": [
-        "Converted legacy Adobe Flex apps to HTML5 with AngularJS",
-        "Delivered project ahead of timeline and deployed it to production "
+        "Created an application to monitor all the traffic on the Grid"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Kennesaw State University",
-      "area": "Computer Game Design and Development",
+      "institution": "University of Georgia",
+      "area": "Computer Science",
       "studyType": "Bachelor of Science",
-      "startDate": "May 2011",
-      "endDate": "Aug. 2016",
-      "gpa": "",
-      "courses": [
-        "Data Structures",
-        "Algorithm Analysis",
-        "Artificial Intelligence",
-        "Computer Graphics"
-      ]
+      "startDate": "August 2011",
+      "endDate": "May 2014",
+      "gpa": "3.60"
+    },
+    {
+      "institution": "Truett McConnell University",
+      "area": "Mathematics",
+      "studyType": "Associates of Arts and Science",
+      "startDate": "August 2009",
+      "endDate": "May 11",
+      "gpa": "3.84"
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "flavor": "award",
+      "from": "HackMyResume",
+      "title": "Awesomeness Award",
+      "event": "HMR Release",
+      "date": "2016",
+      "summary": "For being a HackMyResume or FluentCV user."
+    },
+    {
+      "flavor": "industry",
+      "from": "Big Software",
+      "title": "MVP: SpinWidget Technology",
+      "event": "Yearly Roundup",
+      "date": "2015-08-03",
+      "summary": "For work in promotion and popularization of SpinWidget technology."
+    }
+  ],
   "publications": [],
   "skills": [
     {
@@ -87,22 +102,23 @@
       "level": "",
       "keywords": [
         "Java",
-        "Spring Boot",
         "Javascript",
         "AngularJS",
-        "PixiJS",
-        "MithrilJS",
-        "C++ (Rudimentary)",
+        "JQuery",
         "Bash",
-        "SQL",
-        "NoSql"
+        "SQL"
       ]
     },
     {
-      "name": "Recognition",
-      "level": "America's Greatest Makers",
+      "name": "Tool Proficiencies",
+      "level": "",
       "keywords": [
-        "Contestant on Intel's Competition/Reality Show"
+        "GitHub",
+        "Jenkins",
+        "NPM",
+        "Confluence",
+        "Eclipse",
+        "Intellij"
       ]
     }
   ],
@@ -110,14 +126,6 @@
     {
       "language": "English ",
       "fluency": "Native"
-    },
-    {
-      "language": "Urdu/Hindi",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "",
-      "fluency": ""
     }
   ],
   "interests": [],
